@@ -25,10 +25,10 @@ Olá, sou Blucilhã, mas sinta-se a vontade de me chamar de Bruce.
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Principais Tecnologias
+## Tecnologias recentes:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blucilha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Histórico no GitHub
+## Histórico no GitHub:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blucilha&show_icons=true&theme=radical)
 )](https://github.com/anuraghazra/github-readme-stats)
